@@ -37,4 +37,7 @@ Numpy arrays (broadcasting, indexing, operations)
 
 Pandas DataFrame: read, filter, sort, groupby
 
-[Python Refresher](https://www.w3schools.com/python/)
+[W3Schools Python Refresher](https://www.w3schools.com/python/)
+[Pandas Tutorial](https://youtu.be/2uvysYbKdjM?si=cVagBmXAVq53Eroc)
+[Numy Tutorial](https://youtu.be/QUT1VHiLmmI?si=JX5yuyGDxFfO0CyV)
+[10 mins to Pandas](http://pandas.pydata.org/docs/user_guide/10min.html)
