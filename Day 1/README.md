@@ -1,4 +1,5 @@
 **📅 Day 1 — Python, Git & Data Handling Basics**
+
 🎯 Goals for Today
 -Set up your environment (Colab + VS Code)
 
@@ -9,6 +10,7 @@
 -Do EDA and cleanup on a real-world dataset
 
 🛠️ **Step 1: Environment Setup (30 min)**
+
 ✅ Tools to Use:
 
 Google Colab (for hands-on)
