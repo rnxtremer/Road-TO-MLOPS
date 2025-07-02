@@ -1,1 +1,38 @@
 **📅 Day 1 — Python, Git & Data Handling Basics**
+🎯 Goals for Today
+-Set up your environment (Colab + VS Code)
+
+-Learn Python essentials for Data Science
+
+-Practice Git basics for project management
+
+-Do EDA and cleanup on a real-world dataset
+
+🛠️ **Step 1: Environment Setup (30 min)**
+✅ Tools to Use:
+
+Google Colab (for hands-on)
+
+GitHub (for hosting your work)
+
+VS Code (optional for later Docker/cloud use)
+
+📌 **Actions:**
+
+Create a GitHub repo: mlops-roadmap-projects
+
+Create folders: day1, day2, etc.
+
+Open Google Colab → Connect to GitHub via File > Save a copy to GitHub
+
+📘 **Step 2: Python for Data Science (2–3 hrs)**
+
+🧠 **Topics:**
+
+Python Lists, Tuples, Dicts, Sets
+
+Functions, Lambda, Map/Filter
+
+Numpy arrays (broadcasting, indexing, operations)
+
+Pandas DataFrame: read, filter, sort, groupby
