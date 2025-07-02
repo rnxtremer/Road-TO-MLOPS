@@ -36,3 +36,5 @@ Functions, Lambda, Map/Filter
 Numpy arrays (broadcasting, indexing, operations)
 
 Pandas DataFrame: read, filter, sort, groupby
+
+[Python Refresher](https://www.w3schools.com/python/)
