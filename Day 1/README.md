@@ -54,6 +54,7 @@ Git basics: clone, add, commit, push, pull
 .gitignore, README.md writing
 
 📚 Resources:
+
 [Git & GitHub Crash Course (Traversy)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
