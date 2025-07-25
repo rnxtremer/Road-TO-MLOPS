@@ -39,7 +39,7 @@
 ## 🔨 Step 3: Mini Project — Titanic Dataset EDA (2 hrs)
 
 ### 📁 Dataset:
-Titanic Dataset (Direct CSV Link)
+[Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ### 📘 Task:
 Create a notebook that:
