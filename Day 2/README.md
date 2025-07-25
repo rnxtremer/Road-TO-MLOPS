@@ -36,11 +36,12 @@
 
 ---
 
-🔨 Step 3: Mini Project — Titanic Dataset EDA (2 hrs)
-📁 Dataset:
+##🔨 Step 3: Mini Project — Titanic Dataset EDA (2 hrs)
+
+###📁 Dataset:
 Titanic Dataset (Direct CSV Link)
 
-📘 Task:
+###📘 Task:
 Create a notebook that:
 
 Loads the dataset using Pandas
@@ -59,7 +60,9 @@ matplotlib, seaborn for visualization
 import seaborn as sns
 sns.barplot(x="Pclass", y="Survived", hue="Sex", data=df)
 
-🧠 Step 4: Git + Reflection (30 min)
+---
+
+##🧠 Step 4: Git + Reflection (30 min)
 Commit your notebook as day2_titanic_eda.ipynb
 
 Push it to your GitHub repo in day2/
